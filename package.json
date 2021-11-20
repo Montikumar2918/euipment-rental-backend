@@ -1,0 +1,20 @@
+{
+  "name": "euipment-rental-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Rental.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.2.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node Rental.js",
+    "devStart": "nodemon Rental.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
